@@ -37,7 +37,7 @@
   <img align="left" alt="Twitch" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/twitch.svg" />
 </a>
 
-<a href="https://steamcommunity.com/id/persijj/">
+<a href="https://steamcommunity.com/id/persigg_loves/">
   <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/steam.svg" />
 </a>
 
