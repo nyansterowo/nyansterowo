@@ -77,4 +77,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" />
 </a>
 
+<a href="https://discord.gg/RPb2KXN">
+  <img align="center" src="http://invidget.switchblade.xyz/RPb2KXN" />
+</a>
+
 <a href="https://github.com/perssBest">
