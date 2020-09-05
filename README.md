@@ -60,6 +60,7 @@
 - 🍊 [Пишем Discord бота на базе-данных MongoDB](https://github.com/perssBest/MongoDB-bot)
 - 🥒 [Еще один Discord бот но теперь с MySql базой-данных](https://github.com/perssBest/MySql-bot)
 - 🍒 [Крутой сайт для Discord бота, с минималистичным дизайном](https://github.com/perssBest/discord-bot-site)
+- 🔔 [Особенный Discord бот с напоминаниями и заметками](https://github.com/perssBest/reminder-bot)
 
 ---
 
