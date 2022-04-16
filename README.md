@@ -1,4 +1,4 @@
-## Привет, меня зовут [Персигг🍑](https://iredoff.github.io/). 
+## Привет, я [Персигг🍑](https://iredoff.github.io/). 
 ### И ты находишься на главной странице моего Github профиля :)
 ---
 <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F"><img align="left" alt="tm" width="20px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/tm.svg" /><a/>
@@ -9,7 +9,7 @@
   <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/instagram.svg" />
 </a>
 
-<a href="https://t.me/iredoff">
+<a href="https://t.me/nyansterowo">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
 
@@ -17,16 +17,12 @@
   <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/github.svg" />
 </a>
 
-<a href="mailto:zadrotflex24@gmail.com">
+<a href="mailto:danilka1dev@gmail.com">
   <img align="left" alt="Gmail" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/gmail.svg" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCiwqPhFK_Rh8rbZflRgnvHg">
   <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/youtube.svg" />
-</a>
-
-<a href="https://discord.gg/RPb2KXN">
-  <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/discord.svg" />
 </a>
 
 <a href="https://vk.com/reedi">
