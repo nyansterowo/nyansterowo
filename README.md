@@ -6,15 +6,15 @@
 + Кстати, вот мои соц. сети где я часто залипаю, можешь подписывать на них, мне будет приятно.
 
 <a href="https://instagram.com/iredoff">
-  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/instagram.svg" />
+  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/instagram.svg" />
 </a>
 
 <a href="https://t.me/nyansterowo">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/telegram.svg" />
 </a>
 
 <a href="https://github.com/iredoff">
-  <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/github.svg" />
+  <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/github.svg" />
 </a>
 
 <a href="mailto:danilka1dev@gmail.com">
@@ -22,43 +22,33 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCiwqPhFK_Rh8rbZflRgnvHg">
-  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/youtube.svg" />
+  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/youtube.svg" />
 </a>
 
 <a href="https://vk.com/reedi">
-  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
+  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/vk.svg" />
 </a>
 
 <a href="https://twitch.tv/persigg_loves">
-  <img align="left" alt="Twitch" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/twitch.svg" />
+  <img align="left" alt="Twitch" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/twitch.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/nyansterowo/">
-  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/steam.svg" />
+  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/steam.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/bhp54m5qf1gvpf2cqmuhwzedz?si=nFL6Vo3YSz-cfhL-6M6G1g">
-  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/spotify.svg" />
 </a>
 
 <a href="https://osu.ppy.sh/users/17761101">
-  <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/osu.png" />
+  <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/osu.png" />
 </a>
 
 
 
 <br>
 <br>
-
----
-
-+ **💜 Снизу ты можешь увидеть мои популярные проекты, надеюсь ты уже оставил звездочки :D**
-- 🍊 [Пишем Discord бота на базе-данных MongoDB](https://github.com/perssBest/MongoDB-bot)
-- 🥒 [Еще один Discord бот но теперь с MySql базой-данных](https://github.com/perssBest/MySql-bot)
-- 🍒 [Крутой сайт для Discord бота, с минималистичным дизайном](https://github.com/perssBest/discord-bot-site)
-- 🔔 [Особенный Discord бот с напоминаниями и заметками](https://github.com/perssBest/reminder-bot)
-
----
 
 + **❤️ Изучаемые языки и инструменты:**
 
@@ -66,17 +56,13 @@
 
 ---
 
-<a href="https://github.com/perssBest">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=perssBest&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
+<a href="https://github.com/nyansterowo">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nyansterowo&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
 </a>
-<a href="https://github.com/perssBest">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" />
+<a href="https://github.com/nyansterowo">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nyansterowo&layout=compact&theme=dark" />
 </a>
 
 <br><br>
 
-<a href="https://discord.gg/RPb2KXN">
-  <img src="http://invidget.switchblade.xyz/RPb2KXN" />
-</a>
-
-<a href="https://github.com/perssBest">
+<a href="https://github.com/nyansterowo">
