@@ -30,7 +30,7 @@
   <pre>
   <b>CPU:</b>             Ryzen 5 5600x (6 / 12)
   <b>Motherboard:</b>     GIGABYTE A520 AORUS ELITE
-  <b>RAM:</b>             G.Skill RIPJAWS V (2x8 / 32Gb)
+  <b>RAM:</b>             G.Skill RIPJAWS V (2x16 / 32Gb)
   <b>GPU:</b>             NVIDIA GeForce RTX 3060 MSI VENTUS (12Gb)</pre>
 </p> 
 
