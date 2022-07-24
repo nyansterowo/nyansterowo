@@ -1,68 +1,45 @@
-## Привет, я [Персигг🍑](https://iredoff.github.io/). 
-### И ты находишься на главной странице моего Github профиля :)
----
-<a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F"><img align="left" alt="tm" width="20px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/tm.svg" /><a/>
-Я разработчик из Туркменистана. Возможно ты не знаешь где это, поэтому даже не гугли что это за страна.
-+ Кстати, вот мои соц. сети где я часто залипаю, можешь подписывать на них, мне будет приятно.
-
-<a href="https://instagram.com/iredoff">
-  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/instagram.svg" />
-</a>
-
-<a href="https://t.me/nyansterowo">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/telegram.svg" />
-</a>
-
-<a href="https://github.com/iredoff">
-  <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/github.svg" />
-</a>
-
-<a href="mailto:danilka1dev@gmail.com">
-  <img align="left" alt="Gmail" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/gmail.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCiwqPhFK_Rh8rbZflRgnvHg">
-  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/youtube.svg" />
-</a>
-
-<a href="https://vk.com/reedi">
-  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/vk.svg" />
-</a>
-
-<a href="https://twitch.tv/persigg_loves">
-  <img align="left" alt="Twitch" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/twitch.svg" />
-</a>
-
-<a href="https://steamcommunity.com/id/nyansterowo/">
-  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/steam.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/bhp54m5qf1gvpf2cqmuhwzedz?si=nFL6Vo3YSz-cfhL-6M6G1g">
-  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/spotify.svg" />
-</a>
-
-<a href="https://osu.ppy.sh/users/17761101">
-  <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/nyansterowo/nyansterowo/master/assets/osu.png" />
-</a>
+<p>
+  <img src="https://i.imgur.com/nJDXhvu.png" width="350" align="left" vspace="5" hspace="5">
+  👋 Greetings traveler! My name is Dani, I live in Turkmenistan (🇹🇲), if anyone is interested. A few years ago, I began to be interested in programming, we can say that this is a hobby that helps to somehow survive in this world. I'm also fond of design, graphics in general, I think I'm pretty good at it. <br><br>
+  Probably, life would seem many times more boring without what I do. It's such a nice feeling when you sit, break your brain, and after good luck you plunge into emotions, these are such fucking feelings when, after a day of your day, you finish the project and rejoice at it. <br><br>
+  It's a great feeling when you're on fire with some idea - you can realize it yourself. You do not need to ask anyone, because you yourself are interested in reading documentation, training, if only people could convey their feelings..
+  <p align="center">
+  <b>Use the buttons below the illustrations to contact me.</b>
+  </p>
+</p> 
+<div id="badges">
+  <a href="https://t.me/iredoff">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black"/>
+  </a>
+  <a href="mailto:danilka1dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/iredoff">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+</div>
 
 
+<br><br><br><br>
 
-<br>
-<br>
 
-+ **❤️ Изучаемые языки и инструменты:**
+<p>
+  <img src="https://i.imgur.com/huQAtcc.png" width="350" align="right" vspace="5" hspace="5">
+  🎮 Despite my love for programming and drawing, I also often like to play games. The most convenient gaming for me is PC. The gamepad is somehow inconvenient for me, especially in shooters. But some TEKKEN or Mortal Kombat is quite normal to play with friends. In most cases, I play shooters, survival games, or horror. I HATE POV GAMES FROM THE TOP!!! <br><br>
+  Since I'm talking about desktop gaming, I think it's worth talking about the piece of iron on which I work. <br>
+  <pre>
+  <b>CPU:</b>             Ryzen 5 5600x (6 / 12)
+  <b>Motherboard:</b>     GIGABYTE A520 AORUS ELITE
+  <b>RAM:</b>             G.Skill RIPJAWS V (2x8 / 32Gb)
+  <b>GPU:</b>             NVIDIA GeForce RTX 3060 MSI VENTUS (12Gb)</pre>
+</p> 
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
+<div id="badges" align="right">
+  <a href="https://steamcommunity.com/id/nyansterowo">
+    <img src="https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black"/>
+  </a>
+</div>
 
----
+<br><br><br><br>
 
-<a href="https://github.com/nyansterowo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nyansterowo&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
-</a>
-<a href="https://github.com/nyansterowo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nyansterowo&layout=compact&theme=dark" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/nyansterowo">
+<p align="center"><b>I know that I wrote too much unnecessary information here, I needed to fill out a profile to make it perfect.</b></p>
