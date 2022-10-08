@@ -29,9 +29,9 @@
   Since I'm talking about desktop gaming, I think it's worth talking about the piece of iron on which I work. <br>
   <pre>
   <b>CPU:</b>             Ryzen 5 5600x (6 / 12)
-  <b>Motherboard:</b>     GIGABYTE A520 AORUS ELITE
-  <b>RAM:</b>             G.Skill RIPJAWS V (2x16 / 32Gb)
-  <b>GPU:</b>             NVIDIA GeForce RTX 3060 MSI VENTUS (12Gb)</pre>
+  <b>Motherboard:</b>     MSI MPG B550 GAMING PLUS
+  <b>RAM:</b>             Kingston Fury Beast Black (2x16 / 32Gb)
+  <b>GPU:</b>             MSI GeForce RTX 3060 GAMING X (12Gb)</pre>
 </p> 
 
 <div id="badges" align="right">
